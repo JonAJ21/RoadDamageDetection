@@ -1,0 +1,9 @@
+dataset: RDD-2022
+metrics:
+  F1: 0.2091
+  Precision: 0.2754
+  Recall: 0.2015
+  mAP@0.5: 0.1461
+  mAP@0.5:0.95: 0.0541
+model: YOLOv11n
+split: test
